@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokesApi</string>
+
+    <string name="key">jokesData</string>
+</resources>
